@@ -1,5 +1,10 @@
 # w_flake8
 
+## usage
+```
+flake8 check.py
+```
+
 ## todo
 - [x] Quickstart
 
